@@ -16,3 +16,5 @@ Mentors
 * Sudarshan GC
 * Malvika Sharan
 * Aidan Budd
+* Marc Santolini
+* Naina Goel
