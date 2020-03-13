@@ -8,12 +8,12 @@ Mentors:
 
 Mentees:
 * Sabita Tamang
-* Ujwal Shrestha
+* Ujwal Shrestha (Ambassador for SANN International College)
 * Himal Chhetri
 * Jenish KC
 * Mohan Gupta
 * Hirendra Raj Joshi
 * Nirmal Adhikari
 * Ruby Maharjan
-* Bibek Chandra Mahaseth
-* Niroj Bhandari
+* Bibek Chandra Mahaseth (Ambassador for Kantipur Valley College)
+* Niroj Bhandari (Ambassador for Kathmandu University)
