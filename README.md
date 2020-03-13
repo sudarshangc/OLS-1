@@ -6,3 +6,4 @@ I will be working with both students of developing countries and experts in comp
 platform for mentorship so that they get benefitted from development of new skills which is lacking in developing countries.
 
 Check [contributors list](./contributors.md)
+Check [Mentors-Mentees](./Names.md)
