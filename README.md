@@ -7,5 +7,6 @@ platform for mentorship so that they get benefitted from development of new skil
 
 Check [contributors list](./contributors.md)
 Check [Mentors-Mentees](./Mentors-Mentees/Names.md)
-Check [Contribution Guidelines](./contributing.md)
+Check [Contribution Guidelines](./CONTRIBUTING.md)
+
 
